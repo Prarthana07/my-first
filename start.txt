@@ -12,3 +12,9 @@ K-Means Clustering
 Random Forest
 Apriori
 PCA
+
+Machine Learning Algorithm can be broadly classified into three types:
+
+Supervised Learning Algorithms
+Unsupervised Learning Algorithms
+Reinforcement Learning algorithm
