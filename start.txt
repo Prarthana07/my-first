@@ -1,1 +1,14 @@
 Test get quick start demo
+yo yo yo wassup babe............ just check this
+
+List of Popular Machine Learning Algorithms
+Linear Regression Algorithm
+Logistic Regression Algorithm
+Decision Tree
+SVM
+Naïve Bayes
+KNN
+K-Means Clustering
+Random Forest
+Apriori
+PCA
